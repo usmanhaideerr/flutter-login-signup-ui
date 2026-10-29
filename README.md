@@ -26,7 +26,7 @@ A clean, modern, and responsive **Login & Signup UI** built with Flutter. This p
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/flutter-auth-ui.git
+   git clone https://github.com/usmanhaideerr/flutter-auth-ui.git
    ```
 
 2. **Go to the project folder**
@@ -47,14 +47,28 @@ A clean, modern, and responsive **Login & Signup UI** built with Flutter. This p
 ## Project Structure
 
 ```
+assets/
+└── images/
+    ├── apple.png
+    ├── google.png
+    ├── haidly_logo.png
+    └── search.png
+
 lib/
 ├── main.dart
 ├── screens/
 │   ├── login_screen.dart
 │   └── signup_screen.dart
+├── theme/
+│   └── app_color.dart
 └── widgets/
-    └── custom_text_field.dart
-```
+    ├── app_logo.dart
+    ├── app_text_field.dart
+    ├── auth_footer.dart
+    ├── auth_scaffold.dart
+    ├── gradient_button.dart
+    ├── or_divider.dart
+    └── social_button.dart
 
 > Update this to match your actual folder structure.
 
