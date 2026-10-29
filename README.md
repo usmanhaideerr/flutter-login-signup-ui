@@ -1,3 +1,8 @@
+
+![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green)
+![License](https://img.shields.io/badge/License-MIT-green)
 # Flutter Auth UI
 
 A clean, modern, and responsive **Login & Signup UI** built with Flutter. This project focuses on the front-end design of authentication screens and can be easily connected to any backend (Firebase, REST API, Supabase, etc.).
@@ -92,8 +97,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Author
 
 **Usman Haider**
-- GitHub: [@your-username](https://github.com/usmanhaideerr)
-- LinkedIn: [your-profile](https://www.linkedin.com/in/usmanhaideer/)
+- GitHub: (https://github.com/usmanhaideerr)
+- LinkedIn: (https://www.linkedin.com/in/usmanhaideer/)
 
 ---
 
